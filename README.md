@@ -1,2 +1,2 @@
-# tec-WEATHER-STATION-
+# tec-WEATHER-STATION
 TEC-1 weather station 
